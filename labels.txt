@@ -1,0 +1,5 @@
+0 Healthy wheat
+1 Powerdery Mildew wheat
+2 Loose smut wheat
+3 Brown rust wheat
+4 Yellow rust/ stripe rust
